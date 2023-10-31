@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sgs
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me by discord
+- 👋 Hi, I’m @Paul
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning APCS A
+- 💞️ I’m looking to collaborate on Java
 
 <!---
 SGS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
